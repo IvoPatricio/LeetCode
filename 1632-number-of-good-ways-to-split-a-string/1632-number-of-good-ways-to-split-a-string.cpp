@@ -2,9 +2,7 @@ class Solution {
 public:
     int numSplits(string s) 
     {
-        int n = s.size();
-    
-        if (n < 2)
+        if (s.size() < 2)
             return 0;
 
         unordered_map<char, int> leftCount;
@@ -13,21 +11,21 @@ public:
         for (int i = 0; i < s.size(); i++) {
             rightCount[s[i]]++;
         }
-        int leftDistinct = 0;
-        int rightDistinct = rightCount.size();
+        int left = 0;
+        int right = rightCount.size();
         int count_good = 0;
-        for (int i = 0; i < n - 1; ++i) {
-            char c = s[i];
-            if (leftCount[c] == 0) {
-                leftDistinct++;
+        for (int i = 0; i < s.size() - 1; ++i)
+        {
+            if (leftCount[s[i]] == 0) {
+                left++;
             }
-            leftCount[c]++;
-            rightCount[c]--;
-            if (rightCount[c] == 0) {
-                rightCount.erase(c);
-                rightDistinct--;
+            leftCount[s[i]]++;
+            rightCount[s[i]]--;
+            if (rightCount[s[i]] == 0) {
+                rightCount.erase(s[i]);
+                right--;
             }
-            if (leftDistinct == rightDistinct) {
+            if (left == right) {
                 ++count_good;
             }
         }
