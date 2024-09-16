@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IvoPatricio/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/IvoPatricio/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/IvoPatricio/LeetCode/tree/master/0049-group-anagrams) |
 | [0539-minimum-time-difference](https://github.com/IvoPatricio/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IvoPatricio/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IvoPatricio/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/IvoPatricio/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Bit Manipulation
 |  |
