@@ -5,7 +5,6 @@ public:
         int value = 1;
         std::string result;
         int count_d = 0;
-
         for (int i = 0; i < pattern.size(); i++) {
             if (pattern[i] == 'I') {
                 result += value + '0';
@@ -25,7 +24,7 @@ public:
                 i += count_d;
             }
         }
-        if (pattern.back() == 'I') {
+        if (pattern[pattern.size() - 1] == 'I') {
             result += value + '0';
         }
         return result;
