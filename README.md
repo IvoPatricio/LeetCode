@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/IvoPatricio/LeetCode/tree/master/0049-group-anagrams) |
 | [0539-minimum-time-difference](https://github.com/IvoPatricio/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/IvoPatricio/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/IvoPatricio/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/IvoPatricio/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Greedy
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/IvoPatricio/LeetCode/tree/master/0049-group-anagrams) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/IvoPatricio/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/IvoPatricio/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Dynamic Programming
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/IvoPatricio/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/IvoPatricio/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
