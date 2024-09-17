@@ -13,7 +13,7 @@ public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         if (head == nullptr || head->next == nullptr || head->next->next == nullptr) 
         {
-            return {-1, -1};
+            return vector<int>{-1, -1};
         }
         
         vector<int> CriticalNodes;
@@ -33,7 +33,7 @@ public:
             value++;
         }
         if (CriticalNodes.size() < 2) {
-            return {-1, -1};
+            return vector<int>{-1, -1};
         }
         int distance = INT_MAX;
         for (int i = 1; i < CriticalNodes.size(); i++) {
