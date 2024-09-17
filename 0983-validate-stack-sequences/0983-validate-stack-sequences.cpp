@@ -13,7 +13,7 @@ public:
                 values.push(pushed[i]);
                 i++;
             }
-            else if (values.top() == popped[x])
+            else if (!values.empty() && values.top() == popped[x])
             {
                 values.pop();
                 x++;
