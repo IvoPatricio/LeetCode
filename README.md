@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0539-minimum-time-difference](https://github.com/IvoPatricio/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/IvoPatricio/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1971-incremental-memory-leak](https://github.com/IvoPatricio/LeetCode/tree/master/1971-incremental-memory-leak) |
 ## Sorting
 |  |
 | ------- |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/IvoPatricio/LeetCode/tree/master/0983-validate-stack-sequences) |
+| [1971-incremental-memory-leak](https://github.com/IvoPatricio/LeetCode/tree/master/1971-incremental-memory-leak) |
 <!---LeetCode Topics End-->
