@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/IvoPatricio/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/IvoPatricio/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/IvoPatricio/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/IvoPatricio/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2714-left-and-right-sum-differences](https://github.com/IvoPatricio/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/IvoPatricio/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/IvoPatricio/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/IvoPatricio/LeetCode/tree/master/1916-find-center-of-star-graph) |
+## Matrix
+|  |
+| ------- |
+| [2454-largest-local-values-in-a-matrix](https://github.com/IvoPatricio/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
