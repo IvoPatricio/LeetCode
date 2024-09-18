@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/IvoPatricio/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2714-left-and-right-sum-differences](https://github.com/IvoPatricio/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/IvoPatricio/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/IvoPatricio/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/IvoPatricio/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
