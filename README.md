@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/IvoPatricio/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/IvoPatricio/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/IvoPatricio/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1971-incremental-memory-leak](https://github.com/IvoPatricio/LeetCode/tree/master/1971-incremental-memory-leak) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/IvoPatricio/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
