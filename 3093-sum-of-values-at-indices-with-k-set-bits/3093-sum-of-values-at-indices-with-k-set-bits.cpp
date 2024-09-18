@@ -5,8 +5,7 @@ public:
         int count = 0;
         while(num > 0)
         {
-            if (num & 1)
-                count++;
+            count += (num & 1);
             num >>= 1;
         }
         if (count == k)
