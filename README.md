@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/IvoPatricio/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/IvoPatricio/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2714-left-and-right-sum-differences](https://github.com/IvoPatricio/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/IvoPatricio/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/IvoPatricio/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/IvoPatricio/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/IvoPatricio/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Counting
 |  |
 | ------- |
