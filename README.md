@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/IvoPatricio/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/IvoPatricio/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/IvoPatricio/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/IvoPatricio/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/IvoPatricio/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/IvoPatricio/LeetCode/tree/master/0835-linked-list-components) |
 | [0983-validate-stack-sequences](https://github.com/IvoPatricio/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/IvoPatricio/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/IvoPatricio/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2714-left-and-right-sum-differences](https://github.com/IvoPatricio/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/IvoPatricio/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/IvoPatricio/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
