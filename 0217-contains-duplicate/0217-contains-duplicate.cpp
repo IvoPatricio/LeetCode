@@ -5,10 +5,9 @@ public:
 
         for (int num : nums)
         {
-            if (numsSet.count(num) == 0)
-                numsSet.insert(num);
-            else
+            if (numsSet.count(num) > 0)
                 return true;
+            numsSet.insert(num);
         }
         return false;
     }
