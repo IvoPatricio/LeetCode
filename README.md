@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/IvoPatricio/LeetCode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/IvoPatricio/LeetCode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/IvoPatricio/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/IvoPatricio/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/IvoPatricio/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/IvoPatricio/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/IvoPatricio/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/IvoPatricio/LeetCode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/IvoPatricio/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/IvoPatricio/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/IvoPatricio/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/IvoPatricio/LeetCode/tree/master/0242-valid-anagram) |
 | [0835-linked-list-components](https://github.com/IvoPatricio/LeetCode/tree/master/0835-linked-list-components) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/IvoPatricio/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/IvoPatricio/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
