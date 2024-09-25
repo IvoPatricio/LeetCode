@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/IvoPatricio/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/IvoPatricio/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/IvoPatricio/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/IvoPatricio/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/IvoPatricio/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/IvoPatricio/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IvoPatricio/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/IvoPatricio/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/IvoPatricio/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2714-left-and-right-sum-differences](https://github.com/IvoPatricio/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Stack
