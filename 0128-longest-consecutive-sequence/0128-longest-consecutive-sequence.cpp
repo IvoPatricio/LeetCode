@@ -6,7 +6,7 @@ public:
         int result = 0;
         for (auto it = setNums.begin(); it != setNums.end(); it++)
         {
-            if (setNums.count(*it + 1) == 1)
+            if (setNums.find(*it + 1) != setNums.end())
                 count++;
             else
                 count = 1;
