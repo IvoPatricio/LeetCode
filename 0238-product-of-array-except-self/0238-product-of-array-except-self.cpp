@@ -4,7 +4,6 @@ public:
     {
         vector<int> result(nums.size(), 0);
         
-
         int left = 1;
         int right = 1;
         for (int i = 0; i < nums.size(); i++)
