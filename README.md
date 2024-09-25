@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/IvoPatricio/LeetCode/tree/master/0125-valid-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/IvoPatricio/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/IvoPatricio/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/IvoPatricio/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/IvoPatricio/LeetCode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/IvoPatricio/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/IvoPatricio/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
