@@ -18,7 +18,6 @@ public:
         int x = str.size() - 1;
         for (int i = 0; i < str.size() / 2; i++)
         {
-            std::cout << str[i] << "---" << str[x] << std::endl;
             if (str[i] == str[x])
                 x--;
             else
