@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/IvoPatricio/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/IvoPatricio/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IvoPatricio/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0792-binary-search](https://github.com/IvoPatricio/LeetCode/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/IvoPatricio/LeetCode/tree/master/0835-linked-list-components) |
 | [0983-validate-stack-sequences](https://github.com/IvoPatricio/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/IvoPatricio/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -157,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IvoPatricio/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/IvoPatricio/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
